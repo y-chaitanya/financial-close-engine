@@ -1,0 +1,9 @@
+account_code,account_name,account_type
+20000,Accounts Payable,Liability
+22100,Accrued Use Tax Liability,Liability
+60100,Office Supplies Expense,Expense
+60200,Lab Supplies Expense,Expense
+61000,Rent Expense,Expense
+62000,Software Subscriptions Expense,Expense
+63000,Professional Fees Expense,Expense
+64000,Shipping and Freight Expense,Expense
