@@ -1,0 +1,6 @@
+district_name,tax_rate,effective_date,end_date
+Statewide Base,0.0725,2023-01-01,
+Santa Clarita,0.0925,2023-01-01,2026-03-31
+Santa Clarita,0.0975,2026-04-01,
+Los Angeles City,0.0975,2023-01-01,
+Sacramento,0.0875,2023-01-01,
