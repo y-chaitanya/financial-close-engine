@@ -1,0 +1,21 @@
+invoice_id,vendor_name,vendor_state,invoice_date,amount,gl_account_code,business_unit,district_name,sales_tax_charged
+INV-1001,Valley Office Supply,CA,2026-08-03,1250.00,60100,UNIT_ALPHA,Santa Clarita,Y
+INV-1002,Northwind Lab Equipment,NV,2026-08-04,40000.00,60200,UNIT_ALPHA,Santa Clarita,N
+INV-1003,Harbor Property Group,CA,2026-08-01,18500.00,61000,CORPORATE,Santa Clarita,N
+INV-1004,Cascade Software Inc,WA,2026-08-05,7200.00,62000,CORPORATE,Santa Clarita,N
+INV-1005,Bridgeway Consulting,CA,2026-08-07,9500.00,63000,UNIT_BETA,Los Angeles City,N
+INV-1006,Summit Freight Lines,CA,2026-08-08,2340.50,64000,UNIT_BETA,Los Angeles City,Y
+INV-1007,Northwind Lab Equipment,NV,2026-08-11,15750.00,60200,UNIT_BETA,Santa Clarita,N
+INV-1008,Valley Office Supply,CA,2026-08-12,860.25,60100,UNIT_BETA,Santa Clarita,Y
+INV-1009,Pinnacle Analytics,TX,2026-08-14,4800.00,62000,UNIT_ALPHA,Santa Clarita,N
+INV-1010,Summit Freight Lines,CA,2026-08-15,1120.00,64000,UNIT_ALPHA,Santa Clarita,Y
+INV-1011,Bridgeway Consulting,CA,2026-08-18,6200.00,63000,CORPORATE,Los Angeles City,N
+INV-1012,Redwood Facilities,CA,2026-08-19,3400.00,61000,CORPORATE,Santa Clarita,Y
+INV-1013,Pinnacle Analytics,TX,2026-08-21,4800.00,62000,UNIT_ALPHA,Santa Clarita,N
+INV-1014,Lakeshore Instruments,OR,2026-08-22,22600.00,60200,UNIT_ALPHA,Santa Clarita,N
+INV-1015,Valley Office Supply,CA,2026-08-25,-450.00,60100,UNIT_BETA,Santa Clarita,Y
+INV-1016,Cascade Software Inc,WA,2026-05-30,7200.00,62000,CORPORATE,Santa Clarita,N
+INV-1017,Summit Freight Lines,CA,2026-08-27,1875.00,99999,UNIT_BETA,Los Angeles City,Y
+INV-1018,Lakeshore Instruments,OR,2026-08-28,9900.00,60200,UNIT_BETA,Sacramento,N
+INV-1019,Harbor Property Group,CA,2026-08-29,18500.00,61000,CORPORATE,Santa Clarita,N
+INV-1020,Meridian Print Services,CA,2026-08-31,640.00,60100,UNIT_ALPHA,Santa Clarita,Y
